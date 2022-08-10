@@ -1,3 +1,5 @@
 university ID    Name
 2110040015       B. Harshini Reddy
-2110040014       J. Hema Latha
+2110040030       Y. Anusha Reddy
+2110040043       A. Rishika
+
